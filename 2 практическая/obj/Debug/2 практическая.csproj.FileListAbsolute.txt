@@ -1,0 +1,7 @@
+C:\Users\Владислав\source\repos\2 практическая\bin\Debug\2 практическая.exe.config
+C:\Users\Владислав\source\repos\2 практическая\bin\Debug\2 практическая.exe
+C:\Users\Владислав\source\repos\2 практическая\bin\Debug\2 практическая.pdb
+C:\Users\Владислав\source\repos\2 практическая\obj\Debug\2 практическая.csproj.AssemblyReference.cache
+C:\Users\Владислав\source\repos\2 практическая\obj\Debug\2 практическая.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\source\repos\2 практическая\obj\Debug\2 практическая.exe
+C:\Users\Владислав\source\repos\2 практическая\obj\Debug\2 практическая.pdb
